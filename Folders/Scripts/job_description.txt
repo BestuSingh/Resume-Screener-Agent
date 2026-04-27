@@ -1,0 +1,6 @@
+Senior AI Engineer
+
+We are hiring a Senior AI Engineer to build production-grade agentic AI systems for document understanding and workflow automation. The role requires 5+ years of software engineering experience and hands-on work with Python, FastAPI, LangGraph or LangChain, Gemini API, Google GenAI SDK, retrieval augmented generation, vector databases such as Chroma or Pinecone, Docker, cloud deployment on AWS or Azure, and strong observability practices.
+
+Responsibilities include designing reliable LLM workflows, building embedding and retrieval pipelines, evaluating model outputs, creating REST APIs, and collaborating with product teams to ship secure AI features.
+

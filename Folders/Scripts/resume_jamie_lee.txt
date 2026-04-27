@@ -1,0 +1,12 @@
+Jamie Lee
+Email: jamie@example.com
+
+Backend Software Engineer with 4 years of experience building Java and Node.js APIs for ecommerce platforms. Strong background in REST services, PostgreSQL, Redis, Docker, and CI/CD. Recently completed internal training on machine learning fundamentals and experimented with Gemini API prototypes.
+
+Experience
+- Backend Engineer, RetailStack: Built high-throughput checkout and inventory services with Java, Spring, Node.js, PostgreSQL, and Redis.
+- Software Engineer, WebCraft: Developed GraphQL APIs and React admin tools.
+
+Skills
+Java, Node.js, TypeScript, PostgreSQL, Redis, Docker, REST, GraphQL, React, CI/CD.
+

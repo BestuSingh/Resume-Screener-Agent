@@ -1,0 +1,12 @@
+Alex Morgan
+Email: alex@example.com
+
+Senior AI Engineer with 7 years of experience building Python services and machine learning platforms. Designed retrieval augmented generation systems using Gemini API, Google GenAI SDK, LangChain, LangGraph, ChromaDB, Pinecone, and custom reranking. Built FastAPI services with PostgreSQL, Redis, Docker, Kubernetes, and AWS.
+
+Experience
+- Lead AI Engineer, Acme Automation: Built an agentic document processing platform for finance teams. Implemented PDF parsing, embedding pipelines, vector search, evaluation dashboards, and CI/CD deployment.
+- Machine Learning Engineer, Northstar Labs: Developed NLP models, model monitoring, and data pipelines with Airflow and Spark.
+
+Skills
+Python, FastAPI, LangGraph, Gemini, Google GenAI, RAG, ChromaDB, Pinecone, Docker, Kubernetes, AWS, SQL, MLOps, observability.
+
